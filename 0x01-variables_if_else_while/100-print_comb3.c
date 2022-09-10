@@ -26,7 +26,7 @@ if (i == 57 && e == 56)
 break;
 }
 putchar(',');
-putchar(' ')
+putchar(' ');
 }
 i++;
 }
@@ -34,4 +34,5 @@ e++;
 }
 putchar('\n');
 return (0);
+/**Return 0 as success**/
 }
